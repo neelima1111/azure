@@ -1,0 +1,38 @@
+                                 ASSIGMNENT 2
+
+1) What is insights in azure?
+
+* It is an extensible Application Performance Management (APM) service for developers and DevOps professionals. 
+* Use it to monitor your live applications and It can monitor and analyze telemetry from mobile apps by integrating with Visual Studio App Center.
+
+2) what is load balancer in azure?
+
+* An Azure load balancer is a Layer-4 (TCP, UDP) load balancer that provides high availability by distributing incoming traffic among healthy VMs.
+* A load balancer health probe monitors a given port on each VM and only distributes traffic to an operational VM.
+* The backend pool instances can be Azure Virtual Machines or instances in a virtual machine scale set.
+
+3) What is availability zone?
+
+* Availability zones (AZs) are isolated locations within data center regions from which public cloud services originate and operate. 
+* Regions are geographic locations in which public cloud service providers' data centers reside...
+* Admins can move resources to another availability zone in the event of an outage.
+* Each zone in a region has redundant and separate power, networking and connectivity to reduce the likelihood of two zones failing simultaneously. 
+* A common misconception is that a single zone equals a single data center.
+
+4) What is availability set in azure?
+
+* An availability set is a logical grouping of VMs that allows Azure to understand how your application 
+  is built to provide for redundancy and availability. 
+* We recommended that two or more VMs are created within an availability set to provide for a highly available 
+  application and to meet the 99.95% Azure SLA.
+
+5) what is load balancer?
+
+* Load balancing is defined as the methodical and efficient distribution of network or application traffic across multiple servers in a server farm.
+* Each load balancer sits between client devices and backend servers, receiving and then distributing incoming requests
+* to any available server capable of fulfilling them.
+
+6) What is VMSS?
+
+* Azure virtual machine scale sets let you create and manage a group of load balanced VMs. 
+* The number of VM instances can automatically increase or decrease in response to demand or a defined schedule.

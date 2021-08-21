@@ -1,0 +1,67 @@
+1)what is cloud computing?
+
+* cloud computing is the delivery of different services through the internet, including data storage, database, servers,networking and software.
+* cloud based storage makes it possible to save files to a remote database and retrive them on demand.
+
+2)what is devops?
+
+* Devops is a set of practices that combines software development and IT operations.
+* It aims to shorten the system development life cycle and provide continuous delivery with hight software quality.
+* Devops is complementary with agile software development ; several devops aspects came from the agile methodology.
+
+3)what is agile v/s scrum v/s kanban?
+
+* Agile is a set of ideals and principles that serve as our north star.
+* Scrum is discussion about two different strategies for implementing an agile development or project management system.
+* kanban methhologies are contineous and more fluid, where as scrum is based on short, structured work sprints.
+
+4)what is sprint?
+
+* A sprint is short, time-boxed period when a scrum team works to complete a set amount of work.
+* Sprints are the very heart of scrum and agile methodologies, 
+  and getting sprints right will help your agile team ship better software with fewer headaches.
+
+5)what is devops lifecycle?
+
+* The DevOps process flow is all about agility and automation.
+* Each phase in the DevOps lifecycle focuses on closing the loop between development and operations and driving production 
+  through continuous development, integration, testing, monitoring and feedback, delivery, and deployment.
+
+6)what is resource group?
+
+* Resource groups: A resource group is a logical container into which Azure resources like web apps, databases, and storage accounts
+  are deployed and managed.
+* Resources: Resources are instances of services that you create, like virtual machines, storage, or SQL databases.
+
+7) what is azure subscription?
+
+* An Azure subscription is linked to a single account, the one that was used to create the subscription and is used for billing purposes. 
+* Within the subscription, resources can be provisioned as instances of the many Azure products and services. ... 
+* Free Azure accounts can be converted to pay-as-you-go accounts
+
+8) what is SDLC?
+
+*Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares.
+
+9) what is hostname how can you find it?
+
+* From the Start menu, select All Programs or Programs, then Accessories, and then Command Prompt.
+* In the window that opens, at the prompt, enter hostname . 
+* The result on the next line of the command prompt window will display the hostname of the machine without the domain.
+
+10) what is ip address how to find it?
+
+* On the taskbar, select Wi-Fi network > the Wi-Fi network you're connected to > Properties.
+  Under Properties, look for your IP address listed next to IPv4 address.
+
+11)what is linux kernel?
+
+* The Linux® kernel is the main component of a Linux operating system (OS) and is the core interface between a computer's hardware and its processes.
+* it was soon adopted as the kernel for the GNU operating system, which was created as a free replacement for UNIX.
+
+12) what is meant by windows operating system?
+
+* Windows is a graphical operating system developed by Microsoft. 
+* It allows users to view and store files, run the software, play games, watch videos, and provides a way to connect to the internet. 
+* It was released for both home computing and professional works. Microsoft introduced the first version as 1.0.
+
