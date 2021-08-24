@@ -1,0 +1,83 @@
+                                           Assgnment 3
+
+1)what is IP address?
+
+* An IP address is a unique address that identifies a device on the internet or a local network. 
+* IP stands for "Internet Protocol," which is the set of rules governing the format of data sent via the internet or local network.
+
+2)How many types of ip are there?
+
+* There are 4 types of ip:
+* An internet protocol (IP) address allows computers to send and receive information. 
+* There are four types of IP addresses: public, private, static, and dynamic.
+
+3)public and private IP addresses?
+
+* A public IP address identifies you to the wider internet so that all the information you're searching for can find you. 
+* A private IP address is used within a private network to connect securely to other devices within that same network. 
+* Each device within the same network has a unique private IP address.
+
+4) IPV4 and IPV6 difference?
+
+* The main difference between IPv4 and IPv6 is the address size of IP addresses. 
+* The IPv4 is a 32-bit address, whereas IPv6 is a 128-bit hexadecimal address. 
+* IPv6 provides a large address space, and it contains a simple header as compared to IPv4.
+
+5) What is backend pool?
+
+* The backend pool is a critical component of the load balancer.
+* The backend pool defines the group of resources that will serve traffic for a given load-balancing rule. 
+* There are two ways of configuring a backend pool: ... Combination of IP address and Virtual Network (VNET) Resource ID.
+
+6) what is a frontend ip address?
+
+* Presents a routable IP address representing a set of application servers to application clients. ... 
+* Routes packets from the clients that establish new transport connections to a selected application server. 
+* Routes packets in existing transport connections to the correct server for the connection.
+
+7) what is health probes?
+
+* The configuration of the health probe and probe responses determine which backend pool instances will receive new flows. 
+* You can use health probes to detect the failure of an application on a backend endpoint. ... 
+* When a health probe fails, Load Balancer will stop sending new flows to the respective unhealthy instance.
+
+8) what is vnet?
+
+* An Azure Virtual Network (VNet) is a representation of your own network in the cloud. 
+* It is a logical isolation of the Azure cloud dedicated to your subscription. ... 
+* When you create a VNet, your services and VMs within your VNet can communicate directly and securely with each other in the cloud.
+
+9) what are different regions you have in azure?
+
+* Azure is generally available in 52 regions around the world, with plans announced for 6 additional regions.
+* Geograhic expansion is a priority for azure because it enables our customers to achieve higher performance an it support their reguirements and 
+  preference regarding data location.
+
+10) what is availability set in azure?
+
+* An availability set is a logical grouping of VMs that allows Azure to understand how your application 
+  is built to provide for redundancy and availability. 
+* We recommended that two or more VMs are created within an availability set to provide for a 
+  highly available application and to meet the 99.95% Azure SLA.
+
+11) what is availability zone?
+
+* Availability Zones are unique physical locations within an Azure region.
+* Each zone is made up of one or more datacenters equipped with independent power, cooling, and networking. ... 
+* With Availability Zones, Azure offers industry best 99.99% VM uptime SLA.09
+
+12) How to add VMS to availability set?
+
+* You can't add an existing VM to an availability set after it's created. 
+* When you create a VM with New-AzVM, you use the -AvailabilitySetName parameter to specify the name of the availability set.
+* Now create two VMs with New-AzVM in the availability set.
+* It takes a few minutes to create and configure both VMs.
+
+13) what is horizontal scaling and vertical scaling?
+
+* Horizontal is more flexible in a cloud situation as it allows you to run potentially thousands of VMs to handle load. 
+* In contrast, vertical scaling is different. 
+* It keeps the same number of VMs, but makes the VMs more ("up") or less ("down") powerful. ... 
+* Vertical scaling also usually requires a VM to stop and restart.
+
+
