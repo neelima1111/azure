@@ -1,0 +1,39 @@
+                                                     Assignment 5
+
+1) why docker?
+
+* Developers can create containers without Docker, but the platform makes it easier, simpler, and safer to build, deploy and manage containers.
+* Docker is essentially a toolkit that enables developers to build, deploy, run, update, and stop containers using simple commands 
+  and work-saving automation through a single API
+
+2)why this tool is named as docker?
+
+* Docker is an open platform for developing, shipping, and running applications. 
+* Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. 
+* With Docker, you can manage your infrastructure in the same ways you manage your applications.
+
+3) what is an image?
+
+* A Docker image is a file used to execute code in a Docker container. 
+* Docker images act as a set of instructions to build a Docker container, like a template. ... 
+* A Docker image contains application code, libraries, tools, dependencies and other files needed to make an application run.
+
+4) what is container in docker?
+ * A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably 
+ * from one computing environment to another. ... 
+ * Secure: Applications are safer in containers and Docker provides the strongest default isolation capabilities in the industry.
+
+5) why do we need to write a Docker file?
+
+* However, writing a Dockerfile is a more consistent and repeatable way to build your own images. 
+* A Dockerfile is a text file that has a series of instructions on how to build your image. 
+* It supports a simple set of commands that you need to use in your Dockerfile.
+
+6) what is docker registry?
+
+* A registry is a storage and content delivery system, holding named Docker images, available in different tagged versions.... 
+* Users interact with a registry by using docker push and pull commands.
+* Example: docker pull registry-1.docker.io/distribution/registry:2.1 . Storage itself is delegated to drivers.
+
+7) 
+
